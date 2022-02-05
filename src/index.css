@@ -1,0 +1,12 @@
+body {
+  font-size: large;
+  background: linear-gradient(to right,  #fcffa4, #ffffe0, #fcffa4);
+  margin: 0;
+  font-family: 'Shizuru', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code{
+  font-family: 'Ubuntu Mono', monospace;
+}
